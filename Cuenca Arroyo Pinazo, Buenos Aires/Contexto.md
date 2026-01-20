@@ -1,0 +1,9 @@
+# Contexto del sistema de estudio: Arroyo Pinazo
+
+El Arroyo Pinazo es un curso de agua del noroeste del área metropolitana de Buenos Aires que atraviesa los partidos de Moreno, General Rodríguez, Pilar, José C. Paz, Malvinas Argentinas y Escobar. Desde el punto de vista hidrológico, forma parte de la cuenca del río Luján y, a una escala regional mayor, integra la Cuenca del Plata, uno de los sistemas fluviales más extensos y relevantes de América del Sur.
+
+El Pinazo drena un territorio fuertemente urbanizado y en transformación, caracterizado por una combinación de áreas residenciales, infraestructura vial, espacios productivos y remanentes de ambientes naturales. Como ocurre en numerosos sistemas fluviales de llanura del conurbano bonaerense, el arroyo ha experimentado modificaciones significativas en su morfología y funcionamiento como consecuencia de cambios en el uso del suelo, ocupación de planicies de inundación y distintas intervenciones antrópicas a lo largo del tiempo.
+
+En este contexto, el Arroyo Pinazo constituye un caso representativo para analizar los desafíos asociados a la conservación, el manejo y la restauración de sistemas fluviales en cuencas urbanas y periurbanas. La recurrencia de eventos de crecida, los conflictos socioambientales asociados al uso del territorio y la pérdida de funciones ecológicas ponen de manifiesto la necesidad de abordar estos sistemas desde un enfoque de cuenca y a múltiples escalas.
+
+El presente trabajo toma al Arroyo Pinazo como sistema de estudio con el objetivo de identificar los principales estresores que lo afectan y analizar una propuesta de manejo y restauración fluvial. Desde esta perspectiva, la restauración se concibe no solo como una intervención técnica sobre el cauce, sino como un proceso que integra dimensiones ecológicas, hidrológicas y sociales, considerando tanto la escala local del arroyo como su inserción en la cuenca del río Luján y la Cuenca del Plata.
