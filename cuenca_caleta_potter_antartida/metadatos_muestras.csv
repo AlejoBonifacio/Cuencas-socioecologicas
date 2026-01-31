@@ -1,0 +1,3 @@
+id_muestra,fecha,hora,latitud,longitud,profundidad_m,temperatura_c,ph_metodo,metodo,observaciones
+POT_01,YYYY-MM-DD,HH:MM,-62.XXX,-58.XXX,0.5,_,_,cresol,
+POT_02,YYYY-MM-DD,HH:MM,-62.XXX,-58.XXX,1.0,_,_,cresol,
