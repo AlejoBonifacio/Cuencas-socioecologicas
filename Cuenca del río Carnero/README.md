@@ -23,3 +23,18 @@ El tramo serrano del Río Carnero cumple funciones críticas:
 Asimismo, constituye un sistema socioecológico donde confluyen jurisdicciones municipales y comunales con marcos normativos superpuestos (ordenamientos territoriales urbanos y ley de bosques nativos), generando tensiones en la gestión del territorio.
 
 El análisis del tramo serrano del Río Carnero permite abordar los desafíos del manejo de cuencas en sistemas de montaña de pequeña escala espacial pero alta complejidad funcional, donde los procesos geomorfológicos, hidrológicos y sociales se encuentran estrechamente acoplados.
+
+## Vertientes como unidades estratégicas de intervención replicable
+
+En sistemas serranos de régimen torrencial, las vertientes constituyen unidades de bajo orden con alta sensibilidad hidrológica y fuerte incidencia en la calidad del agua de los cauces principales. 
+
+Desde una perspectiva de restauración y manejo adaptativo de sistemas fluviales, la intervención a escala de vertiente presenta ventajas metodológicas:
+
+- Delimitación clara de microcuencas.
+- Identificación precisa de fuentes puntuales de contaminación.
+- Alta factibilidad de intervención estructural.
+- Impacto directo en la calidad del agua aguas abajo.
+
+En este sentido, la experiencia de mapeo y monitoreo participativo desarrollada en la cuenca del río Chavascate constituye un antecedente metodológico que puede ser adaptado y ampliado en el tramo serrano del Río Carnero.
+
+La presente propuesta se concibe como una experiencia piloto replicable en otras subcuencas serranas de las Sierras Chicas, bajo un enfoque de rehabilitación funcional de vertientes como infraestructura ecológica crítica.
