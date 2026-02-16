@@ -131,3 +131,25 @@ Se considerará que la rehabilitación funcional es efectiva cuando:
 2. Aumente la diversidad biológica en vertientes intervenidas.
 3. Disminuya la erosión en la vertiente minera.
 4. La comunidad incorpore el monitoreo como práctica continua.
+
+---
+
+## Carácter piloto y potencial de replicabilidad
+
+La estrategia propuesta se organiza en tres fases (diagnóstico participativo, rehabilitación funcional y monitoreo adaptativo), articulando herramientas técnico-científicas con participación comunitaria.
+
+Su carácter piloto se fundamenta en:
+
+- Aplicación inicial en vertientes críticas del tramo serrano del Río Carnero.
+- Generación de protocolos estandarizados de monitoreo bacteriológico y biológico.
+- Desarrollo de criterios de priorización de vertientes.
+- Elaboración de manuales y herramientas para gestión local.
+
+Una vez evaluada la efectividad de la rehabilitación en términos de reducción de carga bacteriana, mejora biológica y estabilidad geomorfológica, el modelo podrá ser replicado en:
+
+- Otras vertientes de la cuenca del Río Carnero.
+- Subcuencas vecinas del corredor Sierras Chicas.
+- Sistemas serranos con problemáticas similares en la región central del país.
+
+La replicabilidad no implica reproducción mecánica, sino adaptación contextual bajo principios comunes de manejo adaptativo y gobernanza socioecológica.
+
